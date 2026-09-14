@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: kirula/wanderlust-frontend-beta:v4
+          image: kirula/wanderlust-frontend-beta:v4.1
           ports:
             - containerPort: 5173
 ---
